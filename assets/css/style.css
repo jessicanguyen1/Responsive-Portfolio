@@ -267,6 +267,7 @@ input[type=submit] {
   footer {
     padding: 5px 0;
   }
+
  /* for Portfolio page */
   .work {
     float: none;
@@ -274,4 +275,10 @@ input[type=submit] {
     width: 100%;
     margin: 0 auto 30px;
   }
-}
+
+  /* Contact page */
+  form ul {
+    list-style: none;
+    padding-left: 0;
+  }
+} 
