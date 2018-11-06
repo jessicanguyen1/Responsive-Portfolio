@@ -246,6 +246,10 @@ input[type=submit] {
   .auth-image {
     width: 50%;
   }
+  form ul {
+    list-style: none;
+    padding-left: 0;
+  }
   footer {
     padding: 5px 0;
   }
