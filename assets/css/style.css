@@ -250,6 +250,10 @@ input[type=submit] {
     list-style: none;
     padding-left: 0;
   }
+  .work {
+    width: 45%;
+    margin: 20px 0 25px 8px;
+  }
   footer {
     padding: 5px 0;
   }
